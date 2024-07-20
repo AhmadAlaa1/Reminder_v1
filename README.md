@@ -17,5 +17,4 @@ this project is to make a remider that remind you to take a break from using lap
    ```bash
    git clone https://github.com/your/repository.git
    cd repository
-   ./CLI_Run.sh  ===> To Run The App on CommandLine Mode
-   ./GUI_Run.sh  ===> To Run The App on GraphicalUserInterface Mode
+   ./Run.sh  ===> To Run The App on CommandLine Mode 
